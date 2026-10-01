@@ -18,7 +18,7 @@ Aplicação web interativa que consulta a previsão do tempo de qualquer cidade 
 - Tratamento de erros para cidades não encontradas
 
 ## Como executar localmente
-1. Clone o repositório: `git clone https://github.com/SEU-USUARIO/bootcamp2-app.git`
+1. Clone o repositório: `git clone https://github.com/danielalmeidapereira22-png/bootcamp2-app.git`
 2. Abra o arquivo `index.html` no navegador.
 
 ## Links
