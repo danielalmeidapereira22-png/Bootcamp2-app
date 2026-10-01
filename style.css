@@ -1,0 +1,87 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(135deg, #74ebe5, #89f7fe);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+  text-align: center;
+  max-width: 400px;
+  width: 90%;
+}
+
+h1 {
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.busca-box {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 1.5rem;
+}
+
+input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  outline: none;
+}
+
+button {
+  padding: 10px 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.card-resultado {
+  margin-top: 1rem;
+  padding: 1rem;
+  border-radius: 8px;
+  background: #f9f9f9;
+}
+
+.card-resultado h2 {
+  margin-bottom: 10px;
+  color: #222;
+}
+
+.card-resultado p {
+  margin: 6px 0;
+  color: #555;
+}
+
+.temp-principal {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #007bff;
+  margin: 10px 0;
+}
+
+.erro {
+  color: #d9534f;
+  font-weight: bold;
+}
