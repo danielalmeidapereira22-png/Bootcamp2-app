@@ -1,7 +1,7 @@
 # Painel do Clima
 
 ## Autor
-Seu Nome Completo - Matrícula 00000000
+Daniel de almeida pereira - Matrícula 22611373
 
 ## Descrição
 Aplicação web interativa que consulta a previsão do tempo de qualquer cidade em tempo real usando a API do Open-Meteo.
